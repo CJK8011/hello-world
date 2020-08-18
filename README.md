@@ -1,2 +1,2 @@
 # hello-world
-This is me figuring out how to create a new repository
+This is me figuring out how to create a new repository. This is all very new and rather overwhelming at times. But I find that if you break tasks down into manageable chunks, the feeling of being overwhelmed dissipates. The journey is one of many, many small steps, as well as a few leaps and bounds here and there. When those feelings of being overwhelmed return, it's usually a sign that you need to step back, take a deep breath and see if you can break things down a little further. The path is long, challenging, but also immensely rewarding when you look back at where you started and realise how far you've travelled. 
